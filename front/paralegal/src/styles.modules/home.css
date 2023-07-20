@@ -1,0 +1,14 @@
+@import "../index.css";
+
+.home {
+    padding: 5rem;
+}
+.titulo {
+    text-align: center;  
+}
+li {
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
