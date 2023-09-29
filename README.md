@@ -14,6 +14,8 @@ Proyecto creado en arquitectura monolítica. Generación de CRUD para diferentes
 - El back-end está realizado en lenguaje de programación Java pero sin testeos más que su funcionamiento general con Postman. Se encuentra documentado con Swagger y posee conexión con Base de Datos MySQL.
 - El Front-end se encuentra apenas iniciado. Se espera continuar y se irá realizando en React.
 
+  ![DER](back/paralegal/DER.png)
+
 ### Tecnologías
 ***
 - Java
